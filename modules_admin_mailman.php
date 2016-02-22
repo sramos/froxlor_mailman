@@ -11,7 +11,7 @@
  *
  * @author Martin Burchert <eremit@adm1n.de>
  * @author Martin Juergens <martin@gamesplace.info>
- * @author Santiago Ramos <sramos@semillasl.com>
+ * @author Santiago Ramos <sramos@sitiodistinto.net>
  * @copyright (C) Martin Burchert
  * @copyright (C) Martin Juergens
  * @copyright (C) Santiago Ramos
