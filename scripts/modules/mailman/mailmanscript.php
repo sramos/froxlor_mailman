@@ -22,7 +22,7 @@
 
   $DEBUG=TRUE;
 
-  $aliases_file = "/var/lib/mailman/data/aliases";
+  $aliases_file = "/var/lib/mailman/data/froxlor_aliases";
 
   if ($DEBUG) {
     $log = fopen("/tmp/froxlor_mailman_cron.log", 'a');
